@@ -1,3 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 spiritual_video_2026.tar.gz filter=lfs diff=lfs merge=lfs -text
+agent_platform.tar.gz filter=lfs diff=lfs merge=lfs -text
